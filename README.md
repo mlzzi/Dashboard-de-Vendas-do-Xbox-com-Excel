@@ -4,6 +4,12 @@ Este projeto foi desenvolvido como um estudo para explorar as funcionalidades do
 
 ---
 
+## 🖼️ **Imagem do Dashboard**:
+
+![Dashboard de Assinaturas](./dashboard_xbox_pass.png)
+
+---
+
 ## 🚀 **Principais Características:**
 
 - ✅ **Visão Geral**:  
